@@ -9,7 +9,9 @@
 
 ## Tutorial
 - [Python basis](http://www.runoob.com/python3/python3-tutorial.html): 菜鸟教程的Python3教程。
-- [TensorFlow-Official-tutorial](https://tensorflow.google.cn/api_docs/): 官方手册。炼丹必备。
+- [Numpy basis](https://zhuanlan.zhihu.com/p/20878530?refer=intelligentunit)：C231n中的Numpy教程，中文版。
+- [Numpy tutorial](https://docs.scipy.org/doc/numpy/reference/)：scipy上的手册，英文，全面。
+- [TensorFlow-Official-tutorial](https://tensorflow.google.cn/api_docs/): 官方手册。炼丹必备。无需翻墙。
 
 ## Example
 - [TensorFlow-Examples-for beginners](https://github.com/aymericdamien/TensorFlow-Examples): 入门向例程。
